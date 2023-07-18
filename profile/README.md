@@ -1,2 +1,2 @@
 # Coders Den
-Welcome, to the coders den
+Welcome, to my organization
